@@ -1,4 +1,4 @@
-# Cache-Design-VERILOG
+# Cache Design using VERILOG
 design of a memory sub system with cache memory
 
 ## Specifications
